@@ -4,6 +4,10 @@
 1. I created python scripts to scrape title and preview text from Mars news articles.
 2. I scraped and analyzed Mars weather data from a website, organized the data into a dataframe, and created various data visualizations using pandas.
 
+## Usage
+Launch Jupyter Notebook and navigate to mars_news_script.ipynb and mars_weather_script.ipynb
+
+
 ### Data Visualizations
 ![average_min_temp.png](https://github.com/cassidyschul/web-scraping-challenge/blob/main/Figures/average_min_temp.png?raw=true)
 ![average_min_temp_coldest_to_warmest.png](https://github.com/cassidyschul/web-scraping-challenge/blob/main/Figures/average_min_temp_coldest_to_warmest.png?raw=true)
